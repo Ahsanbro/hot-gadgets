@@ -1,0 +1,15 @@
+.logo
+{
+    float: left;
+}
+.container
+{
+    margin-bottom: 100px;
+}
+.buy-button
+{
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: black;
+}
